@@ -1,4 +1,4 @@
-# Playwright + MCP Testing Project
+# Python Flask web application + Playwright + MCP Testing Project
 
 This project demonstrates integration of Playwright testing with MCP (Model Context Protocol) for AI-powered testing of a Python Flask application.
 
